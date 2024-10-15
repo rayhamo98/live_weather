@@ -1,1 +1,14 @@
-[]
+[
+    {
+		"name": "paris",
+		"id": "d1820687-0dab-4488-8842-39e40de982ad"
+	},
+	{
+		"name": "Belfast",
+		"id": "6ed0916f-b71f-4a51-a140-869d61b8ae5a"
+	},
+	{
+		"name": "Monaco",
+		"id": "d5182a57-fe7f-44f8-822d-a21c72ca6058"
+	}
+]
